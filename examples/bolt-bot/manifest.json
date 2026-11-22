@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "scene_name": "Bolt bot - registration sample",
+  "ground_z": -2,
+  "standing_height": 35,
+  "plane_distance": 48,
+  "camera_span": 50,
+  "views": {
+    "000": {
+      "image": "000.png",
+      "top_y_px": 19,
+      "sole_y_px": 89,
+      "sole_center_x_px": 56,
+      "sole_world_u": 0
+    },
+    "045": {
+      "image": "045.png",
+      "top_y_px": 22,
+      "sole_y_px": 127,
+      "sole_center_x_px": 75,
+      "sole_world_u": 0.3535533905932738
+    },
+    "090": {
+      "image": "090.png",
+      "top_y_px": 21,
+      "sole_y_px": 91,
+      "sole_center_x_px": 61,
+      "sole_world_u": 0.5
+    },
+    "135": {
+      "image": "135.png",
+      "top_y_px": 25,
+      "sole_y_px": 130,
+      "sole_center_x_px": 82,
+      "sole_world_u": 0.3535533905932738
+    },
+    "180": {
+      "image": "180.png",
+      "top_y_px": 23,
+      "sole_y_px": 93,
+      "sole_center_x_px": 62,
+      "sole_world_u": 0
+    },
+    "top": {
+      "image": "top.png",
+      "front_direction": "down",
+      "anchor_px": [
+        66,
+        52
+      ],
+      "anchor_world_xy": [
+        0,
+        0
+      ],
+      "units_per_px": 0.3333333333333333,
+      "camera_span": 30
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "scene_name": "Character • reference setup",
+  "standing_height": 80,
+  "ground_z": 0,
+  "plane_distance": 105,
+  "camera_span": 108,
+  "views": {
+    "000": {"image": "refs/front.png", "top_y_px": 18, "sole_y_px": 467, "sole_center_x_px": 256},
+    "045": {"image": "refs/front-45.png", "top_y_px": 20, "sole_y_px": 469, "sole_center_x_px": 241},
+    "090": {"image": "refs/side.png", "top_y_px": 21, "sole_y_px": 471, "sole_center_x_px": 227},
+    "135": {"image": "refs/back-45.png", "top_y_px": 22, "sole_y_px": 470, "sole_center_x_px": 249},
+    "180": {"image": "refs/back.png", "top_y_px": 19, "sole_y_px": 470, "sole_center_x_px": 254},
+    "top": {"image": "refs/top.png", "front_direction": "down",
+            "anchor_px": [312, 208], "anchor_world_xy": [0, 3], "units_per_px": 0.15625}
+  }
+}
